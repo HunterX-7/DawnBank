@@ -30,11 +30,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio <a name="about-project"></a>
+# 📖 DawnBank <a name="about-project"></a>
 
-My **Personal Portfolio** Website, The following portfolio was created to showcase my skills as a Full Stack Web Developer.
+DawnBank is a comprehensive and dynamic single-page application built using React, Tailwind CSS, and Vite. The application is designed with a focus on usability, ease of navigation, and smooth interactions for users, ensuring a positive experience while using the financial website.
 
-<img src="./src/assets/Capture.png" alt="app-demo" />
+<!-- <img src="./src/assets/Capture.png" alt="app-demo" /> -->
 
 </br>
 
