@@ -2,10 +2,10 @@
 
 <div align="center">
 
-  <img src="./src/assets/logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+  <!-- <img src="./src/assets/logo.png" alt="logo" width="140"  height="auto" />
+  <br/> -->
 
-  <h2><b>Francisco Quintero</b></h2>
+  <h2><b>DawnBank</b></h2>
 
 </div>
 
@@ -50,7 +50,6 @@ My **Personal Portfolio** Website, The following portfolio was created to showca
     <li>JavaScript</li>
     <li>Tailwind CSS</li>
     <li>React</li>
-    <li>Three</li>
     <li>Vite</li>
   </ul>
 </details>
