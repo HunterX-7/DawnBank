@@ -2,10 +2,8 @@
 
 <div align="center">
 
-  <!-- <img src="./src/assets/logo.png" alt="logo" width="140"  height="auto" />
-  <br/> -->
-
-  <h2><b>DawnBank</b></h2>
+  <img src="./src/assets/logo.png" alt="logo" width="250"  height="auto" />
+  <br/>
 
 </div>
 
@@ -58,7 +56,7 @@ DawnBank is a comprehensive and dynamic single-page application built using Reac
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [See Portfolio live here](https://hunterx-7.github.io/francisco-quintero/)
+- [Coming soon...]()
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
