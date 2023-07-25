@@ -31,7 +31,7 @@
 
 DawnBank is a comprehensive and dynamic single-page application built using React, Tailwind CSS, and Vite. The application is designed with a focus on usability, ease of navigation, and smooth interactions for users, ensuring a positive experience while using the financial website.
 
-<!-- <img src="./src/assets/Capture.png" alt="app-demo" /> -->
+<img src="./src/assets/Capture.png" alt="app-demo" />
 
 </br>
 
@@ -55,7 +55,7 @@ DawnBank is a comprehensive and dynamic single-page application built using Reac
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Coming soon...]()
+- [Live Demo](https://hunterx-7.github.io/DawnBank/)
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
