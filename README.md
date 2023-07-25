@@ -19,7 +19,6 @@
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -78,7 +77,7 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
 
 ```sh
-git clone https://github.com/HunterX-7/francisco-quintero.git
+git clone https://github.com/HunterX-7/DawnBank.git
 ```
 
 ### Install
@@ -97,14 +96,6 @@ To run the project, execute the following command:
 npm run dev
 ```
 
-### Run tests
-
-The following test will run automatically as you try to pull request:
-- Lighthouse
-- Webhint
-- Stylelint
-- Eslint
-
 <!-- AUTHORS -->
 
 ## 👥 Author <a name="authors"></a>
@@ -120,7 +111,7 @@ The following test will run automatically as you try to pull request:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/HunterX-7/francisco-quintero/issues).
+Feel free to check the [issues page](https://github.com/HunterX-7/DawnBank/issues).
 
 <!-- SUPPORT -->
 
