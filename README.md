@@ -103,7 +103,7 @@ npm run dev
 👤 **Francisco Quintero**
 
 - GitHub: [@HunterX-7](https://github.com/HunterX-7)
-- LinkedIn: [Francisco Quintero](https://www.linkedin.com/in/francisco-quintero-146423252/)
+- LinkedIn: [Francisco Quintero](https://www.linkedin.com/in/francisco-asis-quintero-cede%C3%B1o/)
 
 <!-- CONTRIBUTING -->
 
